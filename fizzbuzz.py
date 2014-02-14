@@ -1,3 +1,5 @@
+#Fizzbuzz question for Koding internship application
+
 number = 0
 
 while number != 100:
